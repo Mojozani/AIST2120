@@ -11,8 +11,8 @@ elif [[ "$OSTYPE" == "darwin"* ]]; then
 fi
 
 # Create and activate the virtual environment
-python3.10 -m venv intro_python_env
-source intro_python_env/bin/activate
+python3.10 -m venv AIST2120_env
+source AIST2120_env/bin/activate
 
 # Install the required libraries
 pip install -r requirements.txt
