@@ -2,7 +2,7 @@
 
 ## Setup Instructions (Use the Terminal window on your computer)
 
-- On macOS/Linux:
+a. On macOS/Linux:
    1. Clone the repository:
       ```bash
       git clone https://github.com/Mojozani/AIST2120.git
@@ -14,7 +14,7 @@
       chmod +x setup.sh
       ./setup.sh
       
-- On Windows
+b. On Windows
      Download and install Python 3.10 from: https://www.python.org/ftp/python/3.10.10/python-3.10.10-amd64.exe
    1. Clone the repository:
       ```bash
