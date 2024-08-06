@@ -22,5 +22,5 @@
      source intro_python_env/bin/activate
 5. Install the required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
 
