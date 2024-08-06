@@ -1,3 +1,6 @@
 # AIST2120
 
-This is a test readme file.
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mojozani/AIST2120.git
