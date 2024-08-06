@@ -20,4 +20,7 @@
    - On macOS/Linux:
      ```bash
      source intro_python_env/bin/activate
+5. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
 
